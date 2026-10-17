@@ -1,0 +1,8 @@
+{
+  "name": "Event Atlas",
+  "description": "AI-powered, map-first event discovery platform aggregating events from District by Zomato, BookMyShow, and Luma.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
